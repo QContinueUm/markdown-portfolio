@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* :pizza:
+* :ramen:
+  * :fish_cake:
+  * :fried_shrimp:
